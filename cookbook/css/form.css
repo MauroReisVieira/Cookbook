@@ -1,0 +1,288 @@
+.formIntro h1{
+    margin-bottom: 10px;
+}
+
+.formIntro p{
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    font-size: 16px;
+}
+
+.lineForm{
+    width: 100%;
+    height: auto;
+    display: block;
+    border-top: 2px solid #ccc;
+    overflow: hidden;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+.btn{
+    display: block;
+    border: 1px solid transparent;
+    float: left;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 100;
+    cursor: pointer;
+    font-family: Colaborate;
+    min-width: 150px;
+    padding: 10px 20px;
+}
+
+/* Formulario Style */
+.form label {
+    font-size: 13.5px;
+    font-weight: 100;
+    display: block;
+    margin-bottom: 3px;
+    margin-left: 0px;
+    color: #333;
+}
+
+.form select {
+    display: block;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    font-size: 13px;
+    font-weight: 100;
+    background: #fff;
+    margin-bottom: 10px;
+    border: 1px solid #aaa;
+    color: #333;
+}
+
+.form input[type="text"],[type="password"],[type="tel"] {
+    display: block;
+    width: 98%;
+    height: 30px;
+    line-height: 30px;
+    font-weight: 100;
+    margin-bottom: 10px;
+    padding: 0px;
+    padding-left: 5px;
+    border: 1px solid #aaa;
+    color: #333;
+}
+
+.form input[type="number"] {
+    display: block;
+    width: 50%;
+    height: 30px;
+    line-height: 30px;
+    font-weight: 100;
+    margin-bottom: 10px;
+    padding: 0px;
+    padding-left: 5px;
+    border: 1px solid #aaa;
+    color: #333;
+}
+
+.form input[type="file"] {
+    display: block;
+    width: 99%;
+    height: 30px;
+    font-size: 14px;
+    font-weight: 100;
+    color: #aaa;
+    margin-bottom: 20px;
+}
+
+.form textarea {
+    width: 99%;
+    height: 100px;
+    border: 1px solid #aaa;
+    color: #333;
+}
+
+.form input[type="checkbox"] {
+    display: inline-block;
+    float: left;
+    margin-right: 10px;
+}
+
+.form span{
+    height: 15px;
+    line-height: 18px;
+    display: inline-block;
+    margin-bottom: 5px;
+
+}
+
+.form input[type="submit"] {
+    display: block;
+    border: 1px solid transparent;
+    float: left;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 100;
+    cursor: pointer;
+    font-family: Colaborate;
+    min-width: 150px;
+    padding: 10px 20px;
+}
+
+.form button {
+    display: block;
+    border: 1px solid transparent;
+    float: left;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 100;
+    cursor: pointer;
+    font-family: Colaborate;
+    min-width: 150px;
+    padding: 10px 20px;
+}
+
+/* Fomr Inline*/
+.form-inline label {
+    width: 30%;
+    float: left;
+    height: 30px;
+    line-height: 30px;
+    font-size: 13.5px;
+    font-weight: 100;
+    display: inline-block;
+    margin-bottom: 20px;
+    margin-left: 0px;
+    color: #333;
+}
+
+.form-inline select {
+    display: inline-block;
+    float: left;
+    width: 69%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    font-size: 13px;
+    font-weight: 100;
+    background: #fff;
+    margin-bottom: 20px;
+    border: 1px solid #aaa;
+    color: #333;
+}
+
+.form-inline input[type="text"] {
+    display: inline-block;
+    float: left;
+    width: 68%;
+    height: 30px;
+    line-height: 30px;
+    font-weight: 100;
+    margin-bottom: 20px;
+    padding: 0px;
+    padding-left: 5px;
+    border: 1px solid #aaa;
+    color: #333;
+}
+
+.form-inline input[type="tel"] {
+    display: inline-block;
+    float: left;
+    width: 68%;
+    height: 30px;
+    line-height: 30px;
+    font-weight: 100;
+    margin-bottom: 20px;
+    padding: 0px;
+    padding-left: 5px;
+    border: 1px solid #aaa;
+    color: #333;
+}
+
+.form-inline [type="password"] {
+    display: inline-block;
+    float: left;
+    width: 68%;
+    height: 30px;
+    line-height: 30px;
+    font-weight: 100;
+    margin-bottom: 20px;
+    padding: 0px;
+    padding-left: 5px;
+    border: 1px solid #aaa;
+    color: #333;
+}
+
+.form-inline input[type="number"] {
+    display: block;
+    width: 68%;
+    height: 30px;
+    line-height: 30px;
+    font-weight: 100;
+    margin-bottom: 20px;
+    padding: 0px;
+    padding-left: 5px;
+    border: 1px solid #aaa;
+    color: #333;
+}
+
+.form-inline input[type="file"] {
+    display: block;
+    display: inline-block;
+    float: left;
+    width: 68%;
+    height: 30px;
+    font-size: 14px;
+    font-weight: 100;
+    color: #aaa;
+    margin-bottom: 20px;
+    padding-left: 1%;
+}
+
+.form-inline textarea {
+    width: 68%;
+    border: 1px solid #aaa;
+    color: #333;
+}
+
+.form-inline input[type="submit"] {
+    display: block;
+    border: 1px solid transparent;
+    float: left;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 100;
+    cursor: pointer;
+    font-family: Colaborate;
+    min-width: 150px;
+    padding: 10px 20px;
+}
+
+.form-inline button {
+    display: block;
+    border: 1px solid transparent;
+    float: left;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 100;
+    cursor: pointer;
+    font-family: Colaborate;
+    min-width: 150px;
+    padding: 10px 20px;
+}
+
+.form-inline input[type="checkbox"] {
+    display: inline-block;
+    float: left;
+    margin-right: 10px;
+}
+
+.form-inline span{
+    height: 15px;
+    line-height: 18px;
+    display: inline-block;
+    margin-bottom: 20px;
+
+}

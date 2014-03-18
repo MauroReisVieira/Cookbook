@@ -1,0 +1,83 @@
+.float-right        { width: auto; float:right!important;}
+.float-left         { float: left;}
+
+.pointer            { cursor: pointer;}
+
+.bg-black           { background-color:#000000;}
+.bg-gray            { background-color:#333333;}
+.bg-blueFacebook    { background-color:#195e98;}
+.bg-blueTwitter     { background-color:#00c0f7;}
+.bg-redGplus        { background-color:#e64724;}
+
+.border-White       { border-color:#ffffff!important;}
+.border-grayLight   { border-color:#cccccc!important;}
+.border-blue        { border-color:#0000ff!important;}
+.border-red         { border-color:#ff0000!important;}
+.border-redWine     { border-color:#b7181a!important;}
+
+.border-1           { border:1px solid;}
+.borderTop-1        { border:0px solid; border-top:1px solid;}
+.borderLeft-1       { border:0px solid; border-left:1px solid;}
+.borderRight-1      { border:0px solid; border-right:1px solid;}
+.borderBottom-1     { border:0px solid; border-bottom:1px solid;}
+
+.border-2           { border:2px solid;}
+.borderTop-2        { border:0px solid; border-top:2px solid;}
+.borderLeft-2       { border:0px solid; border-left:2px solid;}
+.borderRight-2      { border:0px solid; border-right:2px solid;}
+.borderBottom-2     { border:0px solid; border-bottom:2px solid;}
+
+.btn-red            { background-color:#ff0000; border:1px solid #ff0000; color:#fff!important;}.btn-redWine:hover{background-color:#ff2d2d; border:1px solid #ff2d2d; color:#fff!important;}
+.btn-redWine        { background-color:#b7181a; border:1px solid #b7181a; color:#fff!important;}.btn-redWine:hover{background-color:#bc2d30; border:1px solid #bc2d30; color:#fff!important;}
+.btn-gray           { background-color:#333333; border:1px solid #333333; color:#fff!important;}.btn-gray:hover{   background-color:#484646; border:1px solid #484646; color:#fff!important;}
+.btn-save           { background-color:#39935c; border:1px solid #39935c; color:#fff!important;}.btn-save:hover{   background-color:#78ba87; border:1px solid #78ba87; color:#fff!important;}
+.btn-white          { background-color:#ffffff; border:1px solid #ccc;}.btn-white:hover{  background-color:#ececec; border:1px solid #ccc;}
+.btn-face           { background-color:#ffffff; border:1px solid #ccc;}.btn-face:hover{   background-color:#195e98; border:1px solid #195e98; color:#fff!important;}
+.btn-twitter        { background-color:#ffffff; border:1px solid #ccc;}.btn-twitter:hover{background-color:#00c0f7; border:1px solid #00c0f7; color:#fff!important;}
+.btn-gplus          { background-color:#ffffff; border:1px solid #ccc;}.btn-gplus:hover{background-color:#e64724; border:1px solid #e64724; color:#fff!important;}
+
+.xxl                { display: block;width: 100%!important;padding:0px;}
+.xl                 { display: block;width: 80%!important;padding: 0px;}
+.xm                 { display: block;width: 60%!important;padding: 0px;}
+.xs                 { display: block;width: 40%!important;padding: 0px;}
+.xxs                { display: block;width: 20%!important;padding: 0px;}
+
+.posFixed           { position: fixed;}
+.posStatic          { position: static;}
+.posAbsolute        { position: absolute;}
+.posRelative        { position: relative;}
+
+.marginAuto         { display: block;margin: auto;}
+
+.marginTop-10       { display: block; margin-top: 10px;}
+.marginTop-20       { display: block; margin-top: 20px;}
+.marginTop-30       { display: block; margin-top: 30px;}
+.marginTop-40       { display: block; margin-top: 40px;}
+.marginTop-50       { display: block; margin-top: 50px;}
+.marginTop-60       { display: block; margin-top: 60px;}
+
+.marginBottom-10    { display: block; margin-bottom: 10px;}
+.marginBottom-20    { display: block; margin-bottom: 20px;}
+.marginBottom-30    { display: block; margin-bottom: 30px;}
+.marginBottom-40    { display: block; margin-bottom: 40px;}
+.marginBottom-50    { display: block; margin-bottom: 50px;}
+.marginBottom-60    { display: block; margin-bottom: 60px;}
+
+.marginLeft-10      { display: block; margin-left: 10px;}
+.marginLeft-20      { display: block; margin-left: 20px;}
+.marginLeft-30      { display: block; margin-left: 30px;}
+.marginLeft-40      { display: block; margin-left: 40px;}
+.marginLeft-50      { display: block; margin-left: 50px;}
+.marginLeft-60      { display: block; margin-left: 60px;}
+
+.marginRight-10     { display: block; margin-right: 10px;}
+.marginRight-20     { display: block; margin-right: 20px;}
+.marginRight-30     { display: block; margin-right: 30px;}
+.marginRight-40     { display: block; margin-right: 40px;}
+.marginRight-50     { display: block; margin-right: 50px;}
+.marginRight-60     { display: block; margin-right: 60px;}
+
+
+.pagination a       {display:inline-block;width: 30px;height: 30px;line-height: 30px;text-decoration: none!important;text-align: center;}
+.pagination 
+.active-pagination  {opacity: 0.4;}
