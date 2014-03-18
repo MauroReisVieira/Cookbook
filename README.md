@@ -4,6 +4,6 @@ Cookbook
 Framework
 Use:
 
-just call the file: cookbook/css/cookbook.css
+just call the file: <b>cookbook/css/cookbook.css</b>
 
 
